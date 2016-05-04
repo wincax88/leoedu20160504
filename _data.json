@@ -1,0 +1,15 @@
+{
+  "index": {
+    "pageTitle": "首页",
+    "banner1": "http://leohtml.oss-cn-shanghai.aliyuncs.com/www/img/main_banner_01.jpg",
+    "banner2": "http://leohtml.oss-cn-shanghai.aliyuncs.com/www/img/main_banner_02.jpg",
+    "banner1_href": "#",
+    "banner2_href": "https://shop123923740.taobao.com",
+    "xubeiyi_png":"http://leohtml.oss-cn-shanghai.aliyuncs.com/www/img/xubeiyi.png",
+    "chenfangyi_png":"http://leohtml.oss-cn-shanghai.aliyuncs.com/www/img/chenfangyi.png",
+    "jinchengjie_png":"http://leohtml.oss-cn-shanghai.aliyuncs.com/www/img/jinchengjie.png",
+    "ipad_mini_png":"http://leohtml.oss-cn-shanghai.aliyuncs.com/www/img/ipad-min.png",
+    "ipad_demo_mp4":"http://leohtml.oss-cn-shanghai.aliyuncs.com/www/video/ipad_demo-ipad.mp4",
+    "service_team_png":"http://leohtml.oss-cn-shanghai.aliyuncs.com/www/img/service_team.png"
+  }
+}

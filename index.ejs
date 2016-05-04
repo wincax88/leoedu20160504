@@ -1,0 +1,20 @@
+<div id="skrollr-body">
+    <%- partial("./partial/_banner-home") %>
+    <%- partial("./partial/_main-free-course") %>
+    <%- partial("./partial/_main-tutor") %>
+    <%- partial("./partial/_main-knowledge") %>
+    <%- partial("./partial/_main-ipad") %>
+    <%- partial("./partial/_main-student") %>
+    <%- partial("./partial/_main-service") %>
+
+</div>
+<script>
+    document.ready(function(){
+        // scroll body to 0px on click
+        $('#free-course-link a').click(function () {
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });    });
+</script>
