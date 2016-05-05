@@ -27,6 +27,8 @@
     <link rel="stylesheet" type="text/css" href="fonts/iconfont.css">
     <link href="http://leohtml.oss-cn-shanghai.aliyuncs.com/www/css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/theme.css">
+    <link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" rel="stylesheet">
+
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements
     and media queries -->
@@ -50,9 +52,25 @@
 <!-- javascript //-->
 <script src="http://leohtml.oss-cn-shanghai.aliyuncs.com/www/js/jquery.min.js"></script>
 <script src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-
+<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+<!--<script src="//cdn.bootcss.com/jquery-validate/1.15.0/jquery.validate.min.js"></script>//-->
 <script src="js/skrollr.min.js"></script>
 
+<!--"host":"http://leohtml.oss-cn-shanghai.aliyuncs.com/www/",//-->
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        // scroll body to 0px on click
+        $('#free-course-link a').click(function () {
+            $('body,html').animate({
+                scrollTop: 330
+            }, 800);
+            return false;
+        });
+    });
+</script>
+
+<script src="js/free_course_submit.js"></script>
 
 </body>
 </html>

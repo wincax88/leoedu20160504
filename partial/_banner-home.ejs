@@ -8,11 +8,11 @@
     <!-- 轮播（Carousel）项目 -->
     <div class="carousel-inner">
         <div class="item active">
-            <img  src=<%- locals.banner1 %> alt=""/>
+            <img  src=<%- locals.host %><%- locals.banner1 %> alt=""/>
         </div>
         <div class="item">
-            <a onclick="ga('send', 'event', 'link', 'click', 'Banner2 Btn');" href=<%- locals.banner2_href %> target="_blank">
-                <img  src=<%- locals.banner2 %> alt=""/>
+            <a onclick="ga('send', 'event', 'link', 'click', 'Banner2 Btn');" href=<%- locals.host %><%- locals.banner2_href %> target="_blank">
+                <img  src=<%- locals.host %><%- locals.banner2 %> alt=""/>
             </a>
         </div>
     </div>

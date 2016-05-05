@@ -1,13 +1,18 @@
 #main-student {
 
   .student-title {
-    margin-top: 20px;
+    margin-top: 10px;
     h3 {
-      color:@black;
-      font-size:@base-font-size*1.5;
-      font-weight: bold;
+      color:#e2446c;
+      font-size:@base-font-size*1.3;
+      font-weight: normal;
       text-align: center;
       line-height: @font-size*2;
+      small {
+        color:#ff93ae;
+        font-size:@base-font-size;
+        font-weight: normal;
+      }
     }
   }
   .ipad-min {
@@ -18,31 +23,43 @@
     }
   }
   .ipad-text {
-    margin-top: 20px;
+    margin-top: 10px;
     p {
-      color:@black;
+      color:#e2446c;
       font-size:@base-font-size;
       font-weight: normal;
-      text-align: left;
+      text-align: center;
       line-height: @font-size*2;
 
     }
   }
+
 }
 
+#article-student {
+  padding-top: 10px;
+  #free-course-link {
+    p {
+      a {
+        color:#872b43;
+      }
+    }
+  }
+}
 #student-carousel {
   margin-top: 0px;
+  background: #ffe3ea;
 
   .carousel-indicators  {
 
-    top:65%;
+    top:60%;
     li {
-      background:@grey;
+      background:@white;
       display:inline-block;
 
     }
     .active {
-      background:@middle-grey;
+      background:#e2446c;
     }
 
   }
@@ -53,7 +70,7 @@
     background-image:none;
     background: none;
     border: none;
-    top:25%;
+    top:15%;
   }
 
   .carousel-control.right, .carousel-control.left {
@@ -71,7 +88,7 @@
         padding-left: 15px;
         padding-right: 15px;
         margin-top: 50px;
-        color:@black;
+        color:#e2446c;
         font-size:@base-font-size;
         font-weight: normal;
         text-align: center;

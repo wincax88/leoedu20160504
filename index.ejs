@@ -6,15 +6,5 @@
     <%- partial("./partial/_main-ipad") %>
     <%- partial("./partial/_main-student") %>
     <%- partial("./partial/_main-service") %>
-
+    <%- partial("./partial/_footer-menu") %>
 </div>
-<script>
-    document.ready(function(){
-        // scroll body to 0px on click
-        $('#free-course-link a').click(function () {
-            $('body,html').animate({
-                scrollTop: 0
-            }, 800);
-            return false;
-        });    });
-</script>

@@ -1,15 +1,19 @@
 {
   "index": {
     "pageTitle": "首页",
-    "banner1": "http://leohtml.oss-cn-shanghai.aliyuncs.com/www/img/main_banner_01.jpg",
-    "banner2": "http://leohtml.oss-cn-shanghai.aliyuncs.com/www/img/main_banner_02.jpg",
+    "host":"",
+    "banner1": "img/main_banner_01_m.jpg",
+    "banner2": "img/main_banner_02_m.jpg",
     "banner1_href": "#",
     "banner2_href": "https://shop123923740.taobao.com",
-    "xubeiyi_png":"http://leohtml.oss-cn-shanghai.aliyuncs.com/www/img/xubeiyi.png",
-    "chenfangyi_png":"http://leohtml.oss-cn-shanghai.aliyuncs.com/www/img/chenfangyi.png",
-    "jinchengjie_png":"http://leohtml.oss-cn-shanghai.aliyuncs.com/www/img/jinchengjie.png",
-    "ipad_mini_png":"http://leohtml.oss-cn-shanghai.aliyuncs.com/www/img/ipad-min.png",
-    "ipad_demo_mp4":"http://leohtml.oss-cn-shanghai.aliyuncs.com/www/video/ipad_demo-ipad.mp4",
-    "service_team_png":"http://leohtml.oss-cn-shanghai.aliyuncs.com/www/img/service_team.png"
+    "xubeiyi_png":"img/xubeiyi_m.jpg",
+    "chenfangyi_png":"img/chenfangyi_m.jpg",
+    "jinchengjie_png":"img/jinchengjie_m.jpg",
+    "ipad_mini_png":"img/ipad-min_m.png",
+    "ipad_demo_mp4":"video/ipad_demo-ipad_m.mp4",
+    "service_team_png":"img/service_team_m.jpg",
+    "knowledge_map_png":"img/knownledge_map_m.png",
+    "tutor_png":"img/tutor_m.png",
+    "leo_logo_png":"img/leo_logo_m.png"
   }
 }

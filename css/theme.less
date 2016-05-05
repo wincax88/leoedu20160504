@@ -55,6 +55,7 @@ small {
   font-size:@base-font-size;
   font-weight: bold;
   text-align: right;
+  margin-bottom: 10px;
 }
 /***************************
 ////////////////////////////
@@ -151,20 +152,28 @@ i.favorite {
   font-size: (@font-size * 2);
 }
 
+.section-free-course {
+  background:@free-course-color;
+}
+
 .section-tutor {
-  background: @white;
+  background: #e6fbff;
 }
 
 .section-knowledge {
-  background: #333;
+  background: #fff2de;
 }
 
 .section-pad {
-  background: @white;
+  background: #e0f4c0;
+}
+
+.section-student {
+  background: #ffe3ea;
 }
 
 .section-service {
-  background: @white;
+  background: #e6fbff;
 }
 
 
@@ -193,6 +202,8 @@ Reusable classes or components
 @import "components/_main-student.less";
 
 @import "components/_main-service.less";
+
+@import "components/_main-free-course.less";
 
 /***************************
 ////////////////////////////

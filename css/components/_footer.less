@@ -1,8 +1,107 @@
 #footer {
   margin-top: 50px;
+  margin-bottom: 64px;
   p {
-    color: @footer-grey;
+    color: #757575;
     font-size: @base-font-size;
     font-weight: normal;
+
+    span {
+      color: @black;
+    }
+  }
+}
+
+#footer-menu {
+  .service {
+    border:solid;
+    border-width: 1px;
+    border-color: @white;
+    border-top-color: @light-grey;
+    border-right-color: @light-grey;
+    text-align: center;
+
+    h3 {
+      margin-top: 14px;
+      color:#bbbbbb;
+      font-size:@base-font-size*1.2;
+      font-weight: normal;
+      a {
+        color:#bbbbbb;
+      }
+    }
+    /*
+    a {
+      margin-top: 5px;
+      color: #bbbbbb;
+      font-size: @base-font-size*1.2;
+      font-weight: normal;
+
+      .icon-service:before {
+
+        display: inline-block;
+        color:#bbbbbb;
+        font-size: @base-font-size*1.5;
+        width: 36px;
+        height: 36px;
+        font-weight: normal;
+        text-align: center;
+      }
+      .icon-service {
+
+        font-size: @base-font-size*1.2;
+        font-weight: normal;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+      }
+      span {
+        top: 5px;
+      }
+    }*/
+    a:hover {
+      color: @leo-blue;
+    }
+
+  }
+  .phone {
+    border:solid;
+    border-width: 1px;
+    border-color: @white;
+    border-top-color: @light-grey;
+    text-align: center;
+    h3 {
+      margin-top: 14px;
+      color:#bbbbbb;
+      font-size:@base-font-size*1.2;
+      font-weight: normal;
+      a {
+        color:#bbbbbb;
+      }
+    }
+    /*
+    a {
+
+      color: #bbbbbb;
+      .icon-tel:before {
+        margin-top: 4px;
+        display: inline-block;
+        color:#bbbbbb;
+        font-size: @base-font-size*1.5;
+        width: 36px;
+        height: 36px;
+        font-weight: normal;
+        text-align: center;
+      }
+      .icon-tel {
+        font-size: @base-font-size*1.2;
+        font-weight: normal;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+      }
+
+    }*/
+    a:hover {
+      color: @leo-blue;
+    }
   }
 }

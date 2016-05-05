@@ -1,15 +1,28 @@
 #header {
   background-color: @white;
   height: @header-height;
-  .logo  {
-    color:@leo-blue;
-    font-size: @base-font-size*2;
-    font-weight: normal;
+  .leo-logo  {
+    img {
+      margin-top: 4px;
+      height: 36px;
+    }
   }
   .phone  {
-    color:@leo-blue;
-    font-size: @base-font-size*2;
-    font-weight: normal;
+    a span:before {
+      margin-top: 4px;
+      display: inline-block;
+      color:@leo-blue;
+      font-size: @base-font-size*1.5;
+      width: 36px;
+      height: 36px;
+      font-weight: normal;
+      text-align: center;
+      border: solid;
+      border-radius: 50%;
+      border-width: 1px;
+      border-color: @leo-blue;
+
+    }
 
   }
 }
