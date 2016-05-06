@@ -48,7 +48,7 @@
 <div class="container-fluid">
     <div class="row" id="header">
         <div class="col-xs-6 leo-logo" align="left">
-            <img src= img/leo_logo_m.png></img>
+            <img src= img/leo_logo_m.png>
         </div>
         <div class="col-xs-6 phone" align="right">
             <a href="tel:4001693070"><span class="tel iconfont icon-tel"></span></a>
@@ -175,9 +175,9 @@
                     1500位理科教研员组成的名师团队，均经过教研部层层选拔，重点初高中在职理科老师和培训机构优秀讲师强强联手。举办了两百多场初高中理科公开课，获得十万名学生及其家长的认可。
                 </p>
             </div>
-            <div class="col-xs-12" id="free-course-link">
+            <div class="col-xs-12 free-course-link">
     <p>
-        <a onclick="ga('send', 'event', 'link', 'click', 'Banner2 Btn')">
+        <a onclick="free_course_link_click()">
             立即预约试听 >
         </a>
     </p>
@@ -204,9 +204,9 @@
                     对初中近3000个知识点进行拆分解析，专业的课前测评，全面了解知识点掌握情况，按照你的掌握程度定制学习课程，真正做到个性化辅导。
                 </p>
             </div>
-            <div class="col-xs-12" id="free-course-link">
+            <div class="col-xs-12 free-course-link">
     <p>
-        <a onclick="ga('send', 'event', 'link', 'click', 'Banner2 Btn')">
+        <a onclick="free_course_link_click()">
             立即预约试听 >
         </a>
     </p>
@@ -230,9 +230,9 @@
                     领先的在线直播和电子白板技术，超越传统课堂的在线学习体验，在家里用Ipad即可与老师进行实时语音互动学习。
                 </p>
             </div>
-            <div class="col-xs-12" id="free-course-link">
+            <div class="col-xs-12 free-course-link">
     <p>
-        <a onclick="ga('send', 'event', 'link', 'click', 'Banner2 Btn')">
+        <a onclick="free_course_link_click()">
             立即预约试听 >
         </a>
     </p>
@@ -297,9 +297,9 @@
 <section class="section-student">
     <article class="container">
         <div class="row" id="article-student">
-            <div class="col-xs-12" id="free-course-link">
+            <div class="col-xs-12 free-course-link">
     <p>
-        <a onclick="ga('send', 'event', 'link', 'click', 'Banner2 Btn')">
+        <a onclick="free_course_link_click()">
             立即预约试听 >
         </a>
     </p>
@@ -325,9 +325,9 @@
                 </p>
             </div>
 
-            <div class="col-xs-12" id="free-course-link">
+            <div class="col-xs-12 free-course-link">
     <p>
-        <a onclick="ga('send', 'event', 'link', 'click', 'Banner2 Btn')">
+        <a onclick="free_course_link_click()">
             立即预约试听 >
         </a>
     </p>
@@ -396,14 +396,22 @@
 
 <script type="text/javascript">
     $(document).ready(function(){
+
+        /*
         // scroll body to 0px on click
-        $('#free-course-link a').click(function () {
+        $('.free-course-link a').click(function () {
             $('body,html').animate({
                 scrollTop: 330
             }, 800);
             return false;
-        });
+        });*/
     });
+    function free_course_link_click () {
+        $('body,html').animate({
+            scrollTop: 330
+        }, 800);
+        return false;
+    };
 </script>
 
 <script src="js/free_course_submit.js"></script>

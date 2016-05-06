@@ -60,14 +60,22 @@
 
 <script type="text/javascript">
     $(document).ready(function(){
+
+        /*
         // scroll body to 0px on click
-        $('#free-course-link a').click(function () {
+        $('.free-course-link a').click(function () {
             $('body,html').animate({
                 scrollTop: 330
             }, 800);
             return false;
-        });
+        });*/
     });
+    function free_course_link_click () {
+        $('body,html').animate({
+            scrollTop: 330
+        }, 800);
+        return false;
+    };
 </script>
 
 <script src="js/free_course_submit.js"></script>
