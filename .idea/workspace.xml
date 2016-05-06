@@ -2,35 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebb5cc13-a2d4-4ce4-a39e-9aa843f9d1d4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/_main-free-course.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partial/_footer-menu.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partial/_free-course-link.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/_baichuan-service-modal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partial/_baichuan-service-modal.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data.json" afterPath="$PROJECT_DIR$/_data.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout.ejs" afterPath="$PROJECT_DIR$/_layout.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/components/_footer.less" afterPath="$PROJECT_DIR$/css/components/_footer.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/components/_header.less" afterPath="$PROJECT_DIR$/css/components/_header.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/components/_main-banner.less" afterPath="$PROJECT_DIR$/css/components/_main-banner.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/components/_main-ipad.less" afterPath="$PROJECT_DIR$/css/components/_main-ipad.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/components/_main-knowledge.less" afterPath="$PROJECT_DIR$/css/components/_main-knowledge.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/components/_main-service.less" afterPath="$PROJECT_DIR$/css/components/_main-service.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/components/_main-student.less" afterPath="$PROJECT_DIR$/css/components/_main-student.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/components/_main-tutor.less" afterPath="$PROJECT_DIR$/css/components/_main-tutor.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/components/_variables.less" afterPath="$PROJECT_DIR$/css/components/_variables.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/theme.less" afterPath="$PROJECT_DIR$/css/theme.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.ejs" afterPath="$PROJECT_DIR$/index.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_banner-home.ejs" afterPath="$PROJECT_DIR$/partial/_banner-home.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_footer.ejs" afterPath="$PROJECT_DIR$/partial/_footer.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_header.ejs" afterPath="$PROJECT_DIR$/partial/_header.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_main-free-course.ejs" afterPath="$PROJECT_DIR$/partial/_main-free-course.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_main-ipad.ejs" afterPath="$PROJECT_DIR$/partial/_main-ipad.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_main-knowledge.ejs" afterPath="$PROJECT_DIR$/partial/_main-knowledge.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_main-service.ejs" afterPath="$PROJECT_DIR$/partial/_main-service.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_main-student.ejs" afterPath="$PROJECT_DIR$/partial/_main-student.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_main-tutor.ejs" afterPath="$PROJECT_DIR$/partial/_main-tutor.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_student-carousel.ejs" afterPath="$PROJECT_DIR$/partial/_student-carousel.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partial/_footer-menu.ejs" afterPath="$PROJECT_DIR$/partial/_footer-menu.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/.idea/workspace.xml" afterPath="$PROJECT_DIR$/www/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/theme.css" afterPath="$PROJECT_DIR$/www/css/theme.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
     </list>
     <ignored path="leoedu20160504.iws" />
@@ -52,21 +31,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="_footer.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/components/_footer.less">
+      <file leaf-file-name="_layout.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layout.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.4946237">
-              <caret line="101" column="7" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
+            <state vertical-scroll-proportion="-11.821428">
+              <caret line="102" column="39" selection-start-line="102" selection-start-column="39" selection-end-line="102" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_layout.ejs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_layout.ejs">
+      <file leaf-file-name="free_course_submit.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/free_course_submit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6817421">
-              <caret line="72" column="48" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="77" column="54" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_baichuan-service-modal.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partial/_baichuan-service-modal.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.6785714">
+              <caret line="1" column="50" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_baichuan-service-modal.less" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/components/_baichuan-service-modal.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.60638297">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.464286">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,8 +84,8 @@
       <file leaf-file-name="_footer-menu.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/_footer-menu.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.5">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state vertical-scroll-proportion="-5.428571">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -85,7 +94,7 @@
       <file leaf-file-name="_main-tutor.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/components/_main-tutor.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.1147542">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
               <folding />
             </state>
@@ -117,7 +126,6 @@
         <option value="$PROJECT_DIR$/js/trial_courses_panel.js" />
         <option value="$PROJECT_DIR$/partial/_main-free-course.ejs" />
         <option value="$PROJECT_DIR$/js/free_course_submit.js" />
-        <option value="$PROJECT_DIR$/index.ejs" />
         <option value="$PROJECT_DIR$/partial/_banner-home.ejs" />
         <option value="$PROJECT_DIR$/css/components/_main-banner.less" />
         <option value="$PROJECT_DIR$/css/components/_variables.less" />
@@ -135,11 +143,14 @@
         <option value="$PROJECT_DIR$/css/components/_main-service.less" />
         <option value="$PROJECT_DIR$/css/components/_main-student.less" />
         <option value="$PROJECT_DIR$/css/components/_main-tutor.less" />
-        <option value="$PROJECT_DIR$/css/theme.less" />
         <option value="$PROJECT_DIR$/partial/_student-carousel.ejs" />
-        <option value="$PROJECT_DIR$/partial/_footer-menu.ejs" />
         <option value="$PROJECT_DIR$/css/components/_footer.less" />
+        <option value="$PROJECT_DIR$/index.ejs" />
+        <option value="$PROJECT_DIR$/partial/_footer-menu.ejs" />
+        <option value="$PROJECT_DIR$/css/theme.less" />
+        <option value="$PROJECT_DIR$/partial/_baichuan-service-modal.ejs" />
         <option value="$PROJECT_DIR$/_layout.ejs" />
+        <option value="$PROJECT_DIR$/css/components/_baichuan-service-modal.less" />
       </list>
     </option>
   </component>
@@ -179,6 +190,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -236,6 +248,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leoedu20160504" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leoedu20160504" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -260,7 +286,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -360,6 +385,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/components/_footer.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="101" column="7" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layout.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/_footer-menu.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/components/_main-tutor.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/partial/_header.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -412,9 +469,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-          <folding>
-            <element signature="n#div#2;n#div#0;n#article#0;n#section#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -422,9 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -464,33 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partial/_free-course-link.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.071429">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/free_course_submit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-36.8125">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31825796">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -606,14 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/theme.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.2295084">
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partial/_main-student.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.214286">
@@ -664,32 +681,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/components/_main-tutor.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1147542">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.464286">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/partial/_footer-menu.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.5">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.428571">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5409837">
+          <caret line="206" column="0" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/components/_footer.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4946237">
+        <state vertical-scroll-proportion="-31.459017">
           <caret line="101" column="7" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/_free-course-link.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19095477">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/free_course_submit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="54" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layout.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6817421">
-          <caret line="72" column="48" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
+        <state vertical-scroll-proportion="-11.821428">
+          <caret line="102" column="39" selection-start-line="102" selection-start-column="39" selection-end-line="102" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partial/_baichuan-service-modal.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6785714">
+          <caret line="1" column="50" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/components/_baichuan-service-modal.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60638297">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
           <folding />
         </state>
       </provider>
